@@ -104,5 +104,5 @@
         
         // Charger la météo de Paris par défaut
         window.addEventListener('load', () => {
-            getWeather('Paris');
+            getWeather('Cotonou');
         });
